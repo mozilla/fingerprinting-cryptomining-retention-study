@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Fingerprinting and Cryptomining Protections Retention Study",
-  "version": "1.0",
+  "version": "1.1",
   "description": "A study that examines the impact of turning on fingerprinting and cryptomining protections.",
   "hidden": true,
   "background": {
